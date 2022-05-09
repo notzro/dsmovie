@@ -71,7 +71,8 @@ a, a:hover {
 }
 
 .dsmovie-card {
-    width: 360px;
+    width: 100%;
+
     
 }
 
@@ -101,7 +102,7 @@ a, a:hover {
     margin-bottom: 25px;
 }
 
-.dsmovie-btn, .dsmovie-btn:hover {
+.dsmovie-btn {
     width: 180px;
     height: 40px;
     background: var(--color-prymari);
